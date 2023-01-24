@@ -1,0 +1,1 @@
+/media/jonathan/aff28469-96d7-4780-9506-a03dd90ece95/jonathan/Documents/Project/learn_rust/helloWorld/target/debug/helloWorld: /media/jonathan/aff28469-96d7-4780-9506-a03dd90ece95/jonathan/Documents/Project/learn_rust/helloWorld/src/main.rs
